@@ -1,0 +1,13 @@
+{
+	"main": "index.html",
+	"logo": "logo.png",
+	"preload": "preload.js",
+	"platform": ["win32", "darwin", "linux"],
+	"features": [
+		{
+		  "code": "icon",
+		  "explain": "解析字体图标，ttf,woff,otf",
+			"cmds":["字体图标","icon","ttf", "woff","otf"]
+		}
+	]
+}
